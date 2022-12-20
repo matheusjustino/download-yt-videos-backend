@@ -1,0 +1,3 @@
+export enum ContainersEnum {
+	DOWNLOAD_VIDEO_SERVICE = "DOWNLOAD_VIDEO_SERVICE",
+}
